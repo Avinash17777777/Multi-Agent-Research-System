@@ -98,7 +98,7 @@ TAVILY_API_KEY=your_tavily_api_key
 streamlit run app.py
 ```
 
-Open the URL shown in the terminal (usually **http://localhost:8501**).
+Open the URL shown in the terminal (usually **[http://localhost:8501](https://multi-agent-research-system-raat78sluukgs6tt6xe4z3.streamlit.app/)**).
 
 ---
 
